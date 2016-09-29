@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/Volumes/Data/PROJECTS/sjsu/COURSES/202/handouts/99 - source code/gumball-machine-pattern/c/workspace.workspace">
+  <int Value="2" Name="m_selectedTab"/>
+  <wxString Value="/Volumes/Data/PROJECTS/sjsu/COURSES/202/handouts/99 - source code/gumball-machine-pattern/c/workspace.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/Volumes/Data/PROJECTS/sjsu/COURSES/202/handouts/99 - source code/gumball-machine-pattern/c/gumball_c_ver3/main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="13" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Volumes/Data/PROJECTS/sjsu/COURSES/202/handouts/99 - source code/gumball-machine-pattern/c/gumball_c_ver3/gumball.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="12" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Volumes/Data/PROJECTS/sjsu/COURSES/202/handouts/99 - source code/gumball-machine-pattern/c/gumball_c_ver3/gumball.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="24" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
